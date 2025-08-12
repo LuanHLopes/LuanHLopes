@@ -1,5 +1,6 @@
 # Luan Henrique Lopes Santana
 Bacharelando em Ciência da Computação | Desenvolvedor Full Stack
+<br>Estagiário na Itaipu Binacional
 
 ## Sobre Mim
 <ul>
