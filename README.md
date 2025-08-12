@@ -4,8 +4,8 @@ Bacharelando em Ciência da Computação | Desenvolvedor Full Stack
 
 ## Sobre Mim
 <ul>
-  <li><strong>Técnico em Redes de Computadores</strong> — IFSP Câmpus Catanduva.</li>
-  <li><strong>Bacharelando em Ciência da Computação</strong> — Unioeste Câmpus Foz do Iguaçu.</li>
+  <li><strong>Técnico em Redes de Computadores</strong> — IFSP câmpus Catanduva.</li>
+  <li><strong>Bacharelando em Ciência da Computação</strong> — Unioeste câmpus Foz do Iguaçu.</li>
   <li><strong>Freelancer em Desenvolvimento Web</strong> — Experiência na criação de sites, ecommerces e aplicações web.</li>
   <li><strong>Foz do Iguaçu - Paraná - Brasil</strong></li>
 </ul>
